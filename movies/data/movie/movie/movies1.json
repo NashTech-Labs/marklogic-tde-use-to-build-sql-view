@@ -1,0 +1,8 @@
+{"movieId":"Welcome", "series":"", "seriestype":"feature", "releaseyear":2000, "countries":["India","US","Russia"],
+"genres":["Drama","Comedy"], "runningtime":120, "rating":9.8,
+"parentalCerts": [
+	{"movieId":"Welcome", "country":"India", "currentCertificate":"Amazing"},
+	{"movieId":"Welcome", "country":"China", "currentCertificate":"scandalous"},
+	{"movieId":"Welcome", "country":"US", "currentCertificate":"Rocking"},
+	{"movieId":"Welcome", "country":"Russia", "currentCertificate":"entertaining"}
+]}
